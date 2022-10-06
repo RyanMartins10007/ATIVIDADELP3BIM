@@ -1,0 +1,3 @@
+
+ cmParaPol: 
+O valor 45.0 em centímetros corresponde a 17.716535433070867 em polegadas
